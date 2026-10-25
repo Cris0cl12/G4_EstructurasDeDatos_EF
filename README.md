@@ -1,2 +1,2 @@
-# G4_EstructurasDeDatos_EF
+# G4_EstructurasDeDatos
 Estructura de Datos-proyecto bodega-Grupo 4
